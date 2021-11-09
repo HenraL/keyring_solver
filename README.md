@@ -16,3 +16,11 @@ It is recommended you use 'chmod a+x keyring_solver' before using './keyring_sol
 This program is for Linux and possibly Mac (not tested on Mac).
 
 This program is provided as if and with the only warranty that if downloaded from the authors page (and not modified), this program will not intentionally harm your computer
+
+# Install
+1. Download the bash script
+2. Run `chmod a=rx keyring_solver`
+3. Run `./keyring_solver`
+4. Follow the instructions displayed on the screen
+5. You keyring problem should now be solved.
+If your problem was not solved, please open an issue so that I can reach out to help you.
